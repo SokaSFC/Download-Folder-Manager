@@ -7,16 +7,16 @@ import logging
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
-source_dir = "/Users/user/Downloads"
-dest_dir_screenshots = "/Users/user/Documents/IMAGE/Screenshots"
-dest_dir_music = "/Users/user/Documents/MUSIQUE/Downloads"
-dest_dir_video = "/Users/user/Documents/VIDEO/Downloads"
-dest_dir_image = "/Users/user/Documents/IMAGE/Downloads"
-dest_dir_documents = "/Users/user/Documents/ADMIN/Downloads"
-dest_dir_data = "/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Data Science"
-dest_dir_code = "/Users/user/Library/Mobile Documents/com~apple~CloudDocs/Data Science/Code"
-dest_dir_executing = "/Users/user/Documents/Softwares"
-dest_dir_fonts = "/Users/user/Documents/ADMIN/FONTS"
+source_dir =
+dest_dir_screenshots = 
+dest_dir_music = 
+dest_dir_video = 
+dest_dir_image = 
+dest_dir_documents = 
+dest_dir_data = 
+dest_dir_code = 
+dest_dir_executing = 
+dest_dir_fonts = 
 
 
 
